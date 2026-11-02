@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Art Deco octagon frame in antique bronze -->
+    <path
+        android:fillColor="#8C6D2E"
+        android:pathData="M42,24 L66,24 L84,42 L84,66 L66,84 L42,84 L24,66 L24,42 Z" />
+    <path
+        android:fillColor="#121316"
+        android:pathData="M43.5,27 L64.5,27 L81,43.5 L81,64.5 L64.5,81 L43.5,81 L27,64.5 L27,43.5 Z" />
+    <!-- Bold filled key / wrench support emblem in aged brass (#D4AF37) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M45,42 C38.92,42 34,46.92 34,53 C34,59.08 38.92,64 45,64 C49.82,64 53.9,60.89 55.38,56.5 L64,56.5 L64,62 L70,62 L70,56.5 L74,56.5 L74,49.5 L55.38,49.5 C53.9,45.11 49.82,42 45,42 Z M45,57 C42.79,57 41,55.21 41,53 C41,50.79 42.79,49 45,49 C47.21,49 49,50.79 49,53 C49,55.21 47.21,57 45,57 Z" />
+</vector>

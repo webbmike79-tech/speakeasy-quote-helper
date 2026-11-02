@@ -1,0 +1,6 @@
+{
+  "name": "Speakeasy Support",
+  "description": "Customer-facing IT support quote helper for Speakeasy Support serving Stephenville, Millsap, Parker County, and West Fort Worth, TX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

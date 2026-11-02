@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Speakeasy Support</string>
+
+    <!-- Masthead & Framing -->
+    <string name="masthead_location">MILLSAP, TX • SERVING STEPHENVILLE TO WEST FORT WORTH</string>
+    <string name="masthead_title">SPEAKEASY SUPPORT</string>
+    <string name="masthead_tagline">No nonsense. Straight numbers. Fixed right.</string>
+    <string name="masthead_subtitle">Remote &amp; On-Site IT Support for Homes, Small Businesses &amp; Doctor-Owned Practices across Fort Worth, Millsap, Parker County &amp; Stephenville.</string>
+    <string name="masthead_owner_badge">OPERATED BY MIKE WEBB • ZERO DATA COLLECTION • NO ACCOUNT REQUIRED</string>
+
+    <!-- Step Headers -->
+    <string name="step_1_label">STEP 01 // THE TROUBLE</string>
+    <string name="step_1_title">Pick Your Problem</string>
+    <string name="step_1_subtitle">Tap the issue that best fits what you are dealing with.</string>
+
+    <string name="step_2_label">STEP 02 // THE SETUP</string>
+    <string name="step_2_title">Pick Customer &amp; Service Type</string>
+    <string name="step_2_subtitle">Select your setup and how you want Mike to handle the job.</string>
+
+    <string name="step_3_label">STEP 03 // THE STRAIGHT NUMBERS</string>
+    <string name="step_3_title">Preliminary Estimate Ledger</string>
+    <string name="step_3_subtitle">Plain-English rates and exact math. No hidden fees or invented discounts.</string>
+
+    <!-- Customer & Service Toggles -->
+    <string name="customer_type_heading">Customer Type</string>
+    <string name="customer_home">Home</string>
+    <string name="customer_home_desc">Personal PCs, Wi-Fi, printers &amp; smart home</string>
+    <string name="customer_business">Business</string>
+    <string name="customer_business_desc">Small businesses &amp; doctor-owned practices</string>
+
+    <string name="service_mode_heading">Service Format</string>
+    <string name="service_remote">Remote Support</string>
+    <string name="service_remote_rate">$65/hour • No minimum</string>
+    <string name="service_onsite">On-Site Visit</string>
+    <string name="service_onsite_rate">$85/hour • 1-hour minimum</string>
+
+    <string name="recurring_toggle_title">Happens repeatedly / ongoing need?</string>
+    <string name="recurring_toggle_subtitle">Compare pay-per-incident math against a monthly support plan</string>
+
+    <!-- Something Else Custom Path -->
+    <string name="custom_problem_label">Describe your problem in your own words</string>
+    <string name="custom_problem_placeholder">Example: Two exam room computers keep dropping connection to our office printer and network drive every morning…</string>
+    <string name="btn_get_estimate">Get Preliminary Estimate</string>
+    <string name="btn_analyzing">Estimating Hours…</string>
+
+    <!-- Quote Ledger -->
+    <string name="ledger_header_badge">SPEAKEASY SUPPORT • PRELIMINARY QUOTE LEDGER</string>
+    <string name="exact_disclaimer">Preliminary estimate — final pricing confirmed by Mike.</string>
+    <string name="policy_heading">Standard Pricing &amp; Booking Policies</string>
+    <string name="policy_remote_rate">• Remote support: $65/hour (no minimum)</string>
+    <string name="policy_onsite_rate">• On-site visit: $85/hour, 1-hour minimum</string>
+    <string name="policy_monthly_plans">• Monthly plans: Home $49/mo | Small Business $199/mo | Premium $349/mo</string>
+    <string name="policy_over_500">• Jobs over $500: 50% deposit to start, balance due on completion</string>
+    <string name="policy_cancellation">• Cancellations with under 24 hours notice forfeit the trip fee from the deposit</string>
+
+    <!-- Contact & Share -->
+    <string name="contact_section_label">DIRECT LINE // GET ON THE SCHEDULE</string>
+    <string name="contact_card_title">Contact Mike Webb</string>
+    <string name="contact_card_subtitle">Ready to confirm final pricing or book a time? Reach out directly or send this quote summary.</string>
+    <string name="btn_text_quote">Text Quote to (239) 560-9061</string>
+    <string name="btn_email_quote">Email Quote to spkezspprt@gmail.com</string>
+    <string name="btn_copy_quote">Copy Quote Summary</string>
+    <string name="btn_call_direct">Call (239) 560-9061</string>
+    <string name="btn_visit_website">Visit Speakeasy Support Website</string>
+    <string name="copied_toast">Quote summary copied to clipboard</string>
+</resources>
